@@ -14,4 +14,4 @@ Risk    proactive   assumption constraint
 Risk - it may happen (managing)
 
 Risk + Risk
-     - Mgmt Plan
+     - Mgmt plan
