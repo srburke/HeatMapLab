@@ -6,12 +6,10 @@ Risk Management
       vs.
 Crisis Management
 
-Crisis  reactive    known/facts
-  |         |            |
-  v         v            v
-Risk    proactive   assumption constraint
+Crisis --> Risk  
+reactive --> proactive    
+known/facts -->  assumption constraint
 
 Risk - it may happen (managing)
 
-Risk + Risk
-     - Mgmt plan
+Risk - pos & neg Risk Mgmt Plan
